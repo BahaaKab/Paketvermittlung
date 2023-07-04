@@ -1,5 +1,5 @@
 # Aufgabe
-Um Nachrichten in einem paketvermittelten Rechnernetz (z. B. dem Internet) von einem Sender End-System zu einem Empfänger End-System übertragen zu ko ̈nnen, mu ̈ssen la ̈ngere Nachrichten in einzelne Datenpakete aufgeteilt werden. Die Datenpakete können anschließend entweder verbindungsorientiert oder verbindungslos vom Sender End-System zum Empfänger End-System übertragen werden.
+Um Nachrichten in einem paketvermittelten Rechnernetz (z. B. dem Internet) von einem Sender End-System zu einem Empfänger End-System übertragen zu ko ̈nnen, müssen längere Nachrichten in einzelne Datenpakete aufgeteilt werden. Die Datenpakete können anschließend entweder verbindungsorientiert oder verbindungslos vom Sender End-System zum Empfänger End-System übertragen werden.
 Ein Datenpaket soll in dieser Aufgabe aus den folgenden Feldern bestehen: • Version: 4 oder 6
 • Absender: je nach Version IPv4- oder IPv6-Adresse
 • Empf ̈anger: je nach Version IPv4- oder IPv6-Adresse
